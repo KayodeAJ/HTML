@@ -1,0 +1,21 @@
+/* Styling the container */
+.container {
+    width: 500px;
+    height: 300px;
+    background-color: lightgray;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/*Styling the content box */
+.content {
+    width: 400px;
+    height: 200px;
+    background-color: white;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 70px;
+}
